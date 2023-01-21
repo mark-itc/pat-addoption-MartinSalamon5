@@ -1,0 +1,133 @@
+[
+  {
+    "petID": "1",
+    "petName": "Dixie",
+    "animalType": "Cat",
+    "petCardImage": "image",
+    "petDescription": "Lorem ipsum rfrbshfkjlkaed efekjadkl;a efeifojejdef efwfjifwe ewfoi",
+    "petStatus": "Available",
+    "weight": "8",
+    "age": "8",
+    "responsibleUserID": "1"
+  },
+  {
+    "petID": "2",
+    "petName": "Doggo",
+    "animalType": "Parrot",
+    "petCardImage": "image",
+    "petDescription": "Lorem ipsum rfrbshfkjlkaed efekjadkl;a efeifojejdef efwfjifwe ewfoi",
+    "petStatus": "Available",
+    "weight": "20",
+    "age": "8",
+    "responsibleUserID": "2"
+  },
+  {
+    "petID": "3",
+    "petName": "Dixie",
+    "animalType": "red parrot",
+    "petCardImage": "image",
+    "petDescription": "Lorem ipsum rfrbshfkjlkaed efekjadkl;a efeifojejdef efwfjifwe ewfoi",
+    "petStatus": "Available",
+    "weight": "3",
+    "age": "8",
+    "responsibleUserID": "3"
+  },
+  {
+    "petID": "4",
+    "petName": "Doo",
+    "animalType": "Cat",
+    "petCardImage": "image",
+    "petDescription": "Lorem ipsum rfrbshfkjlkaed efekjadkl;a efeifojejdef efwfjifwe ewfoi",
+    "petStatus": "Available",
+    "weight": "5",
+    "age": "8",
+    "responsibleUserID": "1"
+  },
+  {
+    "petID": "5",
+    "petName": "Dixie",
+    "animalType": "Dog",
+    "petCardImage": "image",
+    "petDescription": "Lorem ipsum rfrbshfkjlkaed efekjadkl;a efeifojejdef efwfjifwe ewfoi",
+    "petStatus": "Available",
+    "weight": "20",
+    "age": "8",
+    "responsibleUserID": "3"
+  },
+  {
+    "petName": "Ally",
+    "petStatus": "Available",
+    "animalType": "Dog",
+    "petImg": "image",
+    "petDescription": "cute dog looking for a home",
+    "weight": 3,
+    "hypoAllergenic": false,
+    "dietaryRestrictions": false,
+    "breed": "cocker",
+    "petID": "jKHmgVtUuvHFP8aCuy8-h",
+    "responsibleUserID": 0
+  },
+  {
+    "petName": "Genie",
+    "animalType": "Dog",
+    "petImg": "image",
+    "petDescription": "cute dog looking for a home",
+    "weight": 3,
+    "hypoAllergenic": false,
+    "dietaryRestrictions": false,
+    "breed": "cocker",
+    "petID": "-w0mimliQQFRNnM9ovrAQ",
+    "responsibleUserID": 0,
+    "petStatus": "Available"
+  },
+  {
+    "petName": "gigi",
+    "animalType": "dog",
+    "petDescription": "cute as hell",
+    "petID": "NDJiLWGd07RFWiK1hTWX8",
+    "responsibleUserID": 0,
+    "petStatus": "Available"
+  },
+  {
+    "petName": "Marty",
+    "animalType": "Dog",
+    "breed": "",
+    "petDescription": "Cute dog",
+    "age": 0,
+    "weight": 0,
+    "petImg": "",
+    "hypoallergenic": false,
+    "dietaryRestrictions": false,
+    "petID": "OsQo5425iYx0xmcI5Jhsc",
+    "responsibleUserID": 0,
+    "petStatus": "Available"
+  },
+  {
+    "petName": "Marty",
+    "animalType": "Dog",
+    "breed": "",
+    "petDescription": "Cute dog",
+    "age": 0,
+    "weight": 0,
+    "petImg": "",
+    "hypoallergenic": false,
+    "dietaryRestrictions": false,
+    "petID": "FZ6SqW_9eoY37UgKyZSbd",
+    "responsibleUserID": 0,
+    "petStatus": "Available"
+  },
+  {
+    "petName": "Edd",
+    "animalType": "Dog",
+    "breed": "Pug",
+    "petDescription": "Frindly Dog, gets along with other dogs, doesn't run after cats. Behaves very well with kids and elderly people. Call us at 0559353833 to adopt this pet. :)",
+    "age": 8,
+    "weight": 1,
+    "petImg": "",
+    "hypoallergenic": false,
+    "dietaryRestrictions": false,
+    "petID": "ZPm_UGwUVE3537z8WzYTL",
+    "responsibleUserID": 0,
+    "petStatus": "Available"
+  }
+]
