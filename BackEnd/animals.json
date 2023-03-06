@@ -1,60 +1,5 @@
 [
   {
-    "petID": "1",
-    "petName": "Dixie",
-    "animalType": "Cat",
-    "petCardImage": "image",
-    "petDescription": "Lorem ipsum rfrbshfkjlkaed efekjadkl;a efeifojejdef efwfjifwe ewfoi",
-    "petStatus": "Available",
-    "weight": "8",
-    "age": "8",
-    "responsibleUserID": "1"
-  },
-  {
-    "petID": "2",
-    "petName": "Doggo",
-    "animalType": "Parrot",
-    "petCardImage": "image",
-    "petDescription": "Lorem ipsum rfrbshfkjlkaed efekjadkl;a efeifojejdef efwfjifwe ewfoi",
-    "petStatus": "Available",
-    "weight": "20",
-    "age": "8",
-    "responsibleUserID": "2"
-  },
-  {
-    "petID": "3",
-    "petName": "Dixie",
-    "animalType": "red parrot",
-    "petCardImage": "image",
-    "petDescription": "Lorem ipsum rfrbshfkjlkaed efekjadkl;a efeifojejdef efwfjifwe ewfoi",
-    "petStatus": "Available",
-    "weight": "3",
-    "age": "8",
-    "responsibleUserID": "3"
-  },
-  {
-    "petID": "4",
-    "petName": "Doo",
-    "animalType": "Cat",
-    "petCardImage": "image",
-    "petDescription": "Lorem ipsum rfrbshfkjlkaed efekjadkl;a efeifojejdef efwfjifwe ewfoi",
-    "petStatus": "Available",
-    "weight": "5",
-    "age": "8",
-    "responsibleUserID": "1"
-  },
-  {
-    "petID": "5",
-    "petName": "Dixie",
-    "animalType": "Dog",
-    "petCardImage": "image",
-    "petDescription": "Lorem ipsum rfrbshfkjlkaed efekjadkl;a efeifojejdef efwfjifwe ewfoi",
-    "petStatus": "Available",
-    "weight": "20",
-    "age": "8",
-    "responsibleUserID": "3"
-  },
-  {
     "petName": "Ally",
     "petStatus": "Available",
     "animalType": "Dog",
@@ -65,7 +10,7 @@
     "dietaryRestrictions": false,
     "breed": "cocker",
     "petID": "jKHmgVtUuvHFP8aCuy8-h",
-    "responsibleUserID": 0
+    "responsibleUserID": 2
   },
   {
     "petName": "Genie",
@@ -77,7 +22,7 @@
     "dietaryRestrictions": false,
     "breed": "cocker",
     "petID": "-w0mimliQQFRNnM9ovrAQ",
-    "responsibleUserID": 0,
+    "responsibleUserID": 2,
     "petStatus": "Available"
   },
   {
@@ -127,6 +72,76 @@
     "hypoallergenic": false,
     "dietaryRestrictions": false,
     "petID": "ZPm_UGwUVE3537z8WzYTL",
+    "responsibleUserID": 0,
+    "petStatus": "Available"
+  },
+  {
+    "petName": "Ben",
+    "animalType": "Cat",
+    "breed": "Streetcat",
+    "petDescription": "Found on the street.Not so clean but friendly.",
+    "age": 0,
+    "weight": 4,
+    "petImg": "",
+    "hypoallergenic": false,
+    "dietaryRestrictions": false,
+    "petID": "gwOKiiLpp6vcluXorfT7j",
+    "responsibleUserID": 0,
+    "petStatus": "Available"
+  },
+  {
+    "petName": "Gepeto",
+    "animalType": "Hedgehog",
+    "breed": "N/A",
+    "petDescription": "Recently found around the house",
+    "age": 2,
+    "weight": 2,
+    "petImg": "",
+    "hypoallergenic": false,
+    "dietaryRestrictions": true,
+    "petID": "51th6asST7_M6BGKeCHx7",
+    "responsibleUserID": 0,
+    "petStatus": "Available"
+  },
+  {
+    "petName": "hhh",
+    "animalType": "uioliop;",
+    "breed": "refer",
+    "petDescription": "vbnjklghjk",
+    "age": 2,
+    "weight": 1,
+    "petImg": "",
+    "hypoallergenic": false,
+    "dietaryRestrictions": false,
+    "petID": "-msbHPbGw4FfeHcUnuVif",
+    "responsibleUserID": 0,
+    "petStatus": "Available"
+  },
+  {
+    "petName": "Belu",
+    "animalType": "Peste",
+    "breed": "Crap",
+    "petDescription": "Dragut asa",
+    "age": 2,
+    "weight": 2,
+    "petImg": "",
+    "hypoallergenic": false,
+    "dietaryRestrictions": false,
+    "petID": "MgwdH8ip9nM2oLBJDJJR5",
+    "responsibleUserID": 0,
+    "petStatus": "Available"
+  },
+  {
+    "petName": "Piciu",
+    "animalType": "Pisica",
+    "breed": "N/A",
+    "petDescription": "Pisica neagra fara noroc",
+    "age": 1,
+    "weight": 3,
+    "petImg": "",
+    "hypoallergenic": true,
+    "dietaryRestrictions": false,
+    "petID": "iXL1qZwC16NfOuMXd86S3",
     "responsibleUserID": 0,
     "petStatus": "Available"
   }

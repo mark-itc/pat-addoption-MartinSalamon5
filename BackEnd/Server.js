@@ -5,15 +5,12 @@ server.use(express.json());
 const cors = require("cors");
 server.use(cors());
 
-const petRoute = require("./routes/pet");
+const accountsRoutes = require("./routes/accounts");
+const petRoutes = require("./routes/pet");
+const adminRoutes = require("./routes/admin");
 
-server.use("/pet", petRoute);
-
-//for the /allpets route, I need to add the jwt interdiction to admins only
-
-server.get("/allpets", (req, res) => {
-  console.log(req);
-  res.status(400).send({ message: "hello" });
-});
+server.use("/accounts", accountsRoutes);
+server.use("/pet", petRoutes);
+server.use("/admin", adminRoutes);
 
 server.listen(4000);
